@@ -70,7 +70,8 @@ feel free to open an issue or submit a pull request. Contributions are welcomed 
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Credits
+The Netflix Power BI Project was created by Somya Parnami.
+Project Guidance - @rishabhnmishra
 
----
 
-Feel free to customize this README file to include any additional information or instructions specific to your Excel Vrinda Store dashboard project. Happy analyzing! 📊🛍️
