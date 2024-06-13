@@ -71,7 +71,7 @@ feel free to open an issue or submit a pull request. Contributions are welcomed 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
-The Netflix Power BI Project was created by Somya Parnami.
+This Excel Project was created by Somya Parnami.
 Project Guidance - @rishabhnmishra
 
 
